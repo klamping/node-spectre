@@ -1,0 +1,22 @@
+{
+  "name": "node-spectre",
+  "version": "0.0.1",
+  "description": "Node Library for Spectre Visual Regression Testing tool ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klamping/node-spectre.git"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "Kevin Lamping",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/klamping/node-spectre/issues"
+  },
+  "homepage": "https://github.com/klamping/node-spectre#readme"
+}
