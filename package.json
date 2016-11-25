@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/klamping/node-spectre#readme",
   "dependencies": {
+    "bluebird": "^3.4.6",
     "superagent": "^3.0.0",
     "superagent-no-cache": "^0.1.0"
   }
