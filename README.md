@@ -33,7 +33,7 @@ describe('Login Page', () => {
   let run_id, spectre;
 
   before(function (done) {
-    spectre = new Spectre('https://node-spectre.herokuapp.com');
+    spectre = new Spectre('https://path.to.spectre.server');
 
     return spectre
       .startRun('Test your login', this.test.parent.fullTitle())
